@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591568493494",
+    "project_id": "varateblog-bf4ae",
+    "storage_bucket": "varateblog-bf4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591568493494:android:c9f3ea2faa4a5ed3943f17",
+        "android_client_info": {
+          "package_name": "com.example.admin_webapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgR0yU79ac3vS0wLtL0UsLcmfl6RjlFXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
